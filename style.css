@@ -252,6 +252,8 @@ img {
     border: 1px solid #dce5f2;
     border-radius: 16px;
     transition: 0.3s;
+     background-color: #07182d;
+    color: white;
 }
 
 .skill:hover {
@@ -271,7 +273,7 @@ img {
 }
 
 .skill p {
-    color: #657184;
+    color:  #b6c2d2;
     font-size: 14px;
 }
 
